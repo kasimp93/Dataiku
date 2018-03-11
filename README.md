@@ -1,4 +1,8 @@
 # Dataiku
+
+The file us_census_dataiku.ipynb contains the code and analysis of the data set
+
+
 Dataiku Interview Exercise
 
 The following link lets you download an archive containing an “exercise” US Census dataset: http://thomasdata.s3.amazonaws.com/ds/us_census_full.zip
