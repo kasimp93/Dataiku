@@ -1,6 +1,6 @@
 # Dataiku
 
-The file us_census_dataiku.ipynb contains the code and analysis of the data set
+us_census_dataiku.ipynb file in us_census_full folder contains the code and analysis of the data set
 
 
 Dataiku Interview Exercise
