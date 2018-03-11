@@ -1,6 +1,8 @@
 # Dataiku
 Dataiku Interview Exercise
-The following link lets you download an archive containing an “exercise” US Census dataset: http://thomasdata.s3.amazonaws.com/ds/us_census_full.zip 
+
+The following link lets you download an archive containing an “exercise” US Census dataset: http://thomasdata.s3.amazonaws.com/ds/us_census_full.zip
+
 This US Census dataset contains detailed but anonymized information for approximately 300,000 people. 
 The archive contains 3 files: 
 o A large learning .csv file
